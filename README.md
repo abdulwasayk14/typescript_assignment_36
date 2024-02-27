@@ -1,1 +1,1 @@
-# typescript_assignment_36
+# typescript_assignment_36_T-shirt
